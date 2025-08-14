@@ -10,7 +10,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 # ==========================
 BOT_TOKEN = "8483309506:AAEe3bA4DTrLOXXPDNJS3W3Gnttau8LEXQg"
 MASTER_USDT_ADDRESS = "TXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-USDT_AMOUNT = 50
+USDT_AMOUNT = 15
 SUBSCRIBERS_FILE = "subscribers.json"
 TRONSCAN_API = "https://apilist.tronscan.org/api/account/tokens?address="
 # ==========================
